@@ -7,7 +7,7 @@
 var things = ["Single Ladies", "Grammy", "Dance", "Leotards", "Ring On It", "Uh Oh Oh"];
 var programmers = ["Barbz", "Beyhive", "Music", "Chicken", "Clothing", "Director"]
 var castles = ["Gold", "Silver", "Bronze"]
-var exertions = ["effort", "strain", "struggle", "toil", "endeavor", "hard work", "labor"];
+var exertions = ["effort", "Snatched Edges", "struggle", "Shots Fired", "Shade", "Bee stings", "Edges"];
 var airs = ["sky", "atmosphere", "heavens", "ether", "wind"];
 
 function choosei(lst){
